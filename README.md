@@ -16,3 +16,27 @@ My repository on GitHub
 >
 
 use `git status` to list all files
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+This site was built using [GitHub Pages](https://pages.github.com)
+
+- AA
+- BB
+- CC
+- DD
+
+* EE
+* FF
+* GG
+
+- [x] 任务1
+- [ ] 任务2
+- [ ] 任务3
+
+
